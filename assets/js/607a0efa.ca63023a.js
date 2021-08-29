@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[173],{406:function(l){l.exports=JSON.parse('{"allTagsPath":"/mockingbird/blog/tags","slug":"/mockingbird/blog/tags/hello","name":"hello","count":2,"permalink":"/mockingbird/blog/tags/hello"}')}}]);

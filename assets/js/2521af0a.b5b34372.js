@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[675],{6487:function(o){o.exports=JSON.parse('{"allTagsPath":"/mockingbird/blog/tags","slug":"/mockingbird/blog/tags/facebook","name":"facebook","count":1,"permalink":"/mockingbird/blog/tags/facebook"}')}}]);
